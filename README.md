@@ -9,3 +9,5 @@
 запуск скрипта производить командой:
 
 python script_clear_folder.py
+
+если вы нашли ошибки или есть какие либо вопросы welcome hulumulu801@gmail.com
